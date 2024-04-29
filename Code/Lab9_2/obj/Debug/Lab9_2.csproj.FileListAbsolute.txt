@@ -1,0 +1,10 @@
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.csproj.AssemblyReference.cache
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.Form1.resources
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.Properties.Resources.resources
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.csproj.GenerateResource.cache
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\bin\Debug\Lab9_2.exe.config
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\bin\Debug\Lab9_2.exe
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\bin\Debug\Lab9_2.pdb
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.exe
+C:\Users\Vlad\Documents\Coding\C#\Labs_6_smstr\Lab9_2\obj\Debug\Lab9_2.pdb

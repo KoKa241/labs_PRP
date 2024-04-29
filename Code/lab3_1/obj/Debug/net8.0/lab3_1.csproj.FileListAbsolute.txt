@@ -1,0 +1,14 @@
+D:\Downloads\ConsoleApp1\lab3_1\bin\Debug\net8.0\lab3_1.exe
+D:\Downloads\ConsoleApp1\lab3_1\bin\Debug\net8.0\lab3_1.deps.json
+D:\Downloads\ConsoleApp1\lab3_1\bin\Debug\net8.0\lab3_1.runtimeconfig.json
+D:\Downloads\ConsoleApp1\lab3_1\bin\Debug\net8.0\lab3_1.dll
+D:\Downloads\ConsoleApp1\lab3_1\bin\Debug\net8.0\lab3_1.pdb
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.AssemblyInfoInputs.cache
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.AssemblyInfo.cs
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.csproj.CoreCompileInputs.cache
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.dll
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\refint\lab3_1.dll
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.pdb
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\lab3_1.genruntimeconfig.cache
+D:\Downloads\ConsoleApp1\lab3_1\obj\Debug\net8.0\ref\lab3_1.dll

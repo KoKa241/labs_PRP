@@ -1,0 +1,14 @@
+D:\Downloads\ConsoleApp1\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+D:\Downloads\ConsoleApp1\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+D:\Downloads\ConsoleApp1\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+D:\Downloads\ConsoleApp1\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+D:\Downloads\ConsoleApp1\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+D:\Downloads\ConsoleApp1\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll

@@ -1,0 +1,14 @@
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.AssemblyInfoInputs.cache
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.AssemblyInfo.cs
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.csproj.CoreCompileInputs.cache
+D:\Downloads\ConsoleApp1\lab1_2\bin\Debug\net8.0\lab1_2.exe
+D:\Downloads\ConsoleApp1\lab1_2\bin\Debug\net8.0\lab1_2.deps.json
+D:\Downloads\ConsoleApp1\lab1_2\bin\Debug\net8.0\lab1_2.runtimeconfig.json
+D:\Downloads\ConsoleApp1\lab1_2\bin\Debug\net8.0\lab1_2.dll
+D:\Downloads\ConsoleApp1\lab1_2\bin\Debug\net8.0\lab1_2.pdb
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.dll
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\refint\lab1_2.dll
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.pdb
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\lab1_2.genruntimeconfig.cache
+D:\Downloads\ConsoleApp1\lab1_2\obj\Debug\net8.0\ref\lab1_2.dll
